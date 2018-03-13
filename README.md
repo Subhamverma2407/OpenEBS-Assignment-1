@@ -8,8 +8,8 @@
 2. Then goto that directory using  
 	```cd OpenEBS-Assignment-1```  
 
-3. Run all the yaml files through this command.(Make sure you have pip installed in the system if not then install it with this command  
-```sudo apt-get install python-pip```)  
+3. Run all the yaml files through this command.(Make sure you have pip installed in the system if not then install it with this command ```sudo apt-get install python-pip```)  
+	After this run these commands.
 
 	```kubectl apply -f pods.yaml```  
 	```kubectl apply -f deploy.yaml```  
