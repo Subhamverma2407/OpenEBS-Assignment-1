@@ -1,0 +1,25 @@
+ apiVersion: v1
+
+ kind: Pod
+
+ metadata:
+
+   name: username
+
+   labels:
+
+     app: username
+
+ spec:
+
+   containers:
+
+     - name: username
+
+       image: docker.io/subhamverma2407/username:first
+
+       ports:
+
+         - containerPort: 80
+
+    
