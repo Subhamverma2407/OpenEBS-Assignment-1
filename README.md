@@ -1,6 +1,6 @@
 # OpenEBS-Assignment-1
 
-##Steps to Run the app
+## Steps to Run the app
 
 1. Clone the repo with ```git clone https://github.com/Subhamverma2407/OpenEBS-Assignment-1.git```.
 2. Then goto that directory.
